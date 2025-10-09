@@ -1,4 +1,4 @@
-<!-- 🕋 Ajisafe Ibrahim | Everbest | Full-Stack Developer & Data Scientist -->
+<!-- 🕋 Ajisafe Ibrahim | Ajisafe | Full-Stack Developer & Data Scientist -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=👋+As-Salamu+Alaykum!+I'm+Ajisafe+Ibrahim;🚀+Full+Stack+Developer;🧠+Data+Scientist+%26+Tech+Enthusiast;📖+Qur’an+Memorizer+%7C+Islamic+Scholar-in-Progress" alt="Typing SVG" />
