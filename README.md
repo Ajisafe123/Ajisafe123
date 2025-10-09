@@ -51,7 +51,7 @@ Every project I build is powered by **faith, curiosity, and precision** — comb
 | **Nibras Al-Deen** | React, TailwindCSS, Python.js | 🚧 In Progress | Islamic learning platform for lectures, Qur’an, and Hadith. |
 | **WeTest-Edu** | Vanilla JS, HTML, CSS | 🚀 In Progress | A fun, interactive quiz-based education system. |
 | **Functional Quiz App** | JavaScript | ✅ Completed | Dynamic quiz app with animations, custom scoring, and smooth transitions. |
-| **Libroseek** | JavaScript | ✅ Completed | Dynamic book search app with animations, custom scoring, and smooth transitions. |
+| **Libroseek** | JavaScript | ✅ Completed | Dynamic book search app with animations, custom scoring, and smooth transitions available on google. |
 
 ---
 
