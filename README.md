@@ -132,7 +132,7 @@ My journey blends **spiritual devotion** with **intellectual excellence** — bo
 ### 🤝 **Let’s Connect & Collaborate**
 
 📧 **Email:** [ajisafeibrahim54@gmail.com](mailto:theeverbeststudios@gmail.com)  
-💼 **LinkedIn:** [Ajisafehttps://linkedin.com/in/everbest-studios)  
+💼 **LinkedIn:** [Ajisafehttps://linkedin.com/in/ji)  
 🌐 **Portfolio (Coming Soon):** [ajisafe.dev](https://ajisafe.dev)
 
 <p align="center">
