@@ -1,6 +1,10 @@
 <div align="center">
 
-# 🌌 AJISAFE IBRAHIM
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=AJISAFE%20IBRAHIM&fontSize=70&color=0:00D9FF,50:0099FF,100:FF00FF&stroke=FFFFFF&strokeWidth=2&fontColor=FFFFFF&animation=fadeIn&desc=Full-Stack%20Wizard%20%7C%20Code%20Architect%20%7C%20Data%20Sorcerer&descSize=25&descAlignY=65" width="100%"/>
+
+</div>
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
