@@ -1,10 +1,10 @@
-<!-- 🕋 Ajisafe Ibrahim | Ajisafe | Full-Stack Developer & Data Scientist -->
+<!-- 🚀 Ajisafe Ibrahim | Full-Stack Developer & Data Scientist -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=👋+Hey+there!+I'm+Ajisafe+Ibrahim;🚀+Full+Stack+Developer;📖+Qur’an+Memorizer+%7C+Islamic+Scholar-in-Progress" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=👋+Hey+there!+I'm+Ajisafe+Ibrahim;🚀+Full+Stack+Developer;📊+Data+Science+Enthusiast;💻+Problem+Solver" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">⚙️ Architecting Scalable, Data-Driven, and Purposeful Web Solutions</h3>
+<h3 align="center">⚙️ Architecting Scalable, Data-Driven, and Elegant Web Solutions</h3>
 
 <p align="center">
   <a href="mailto:ajisafeibrahim54@gmail.com">
@@ -16,18 +16,18 @@
   <a href="https://github.com/Ajisafe123">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Everbest&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ajisafe123&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
 ### 🧭 **About Me**
 
-I’m **Ajisafe Ibrahim**, a **Computer Science student at TASUED**, passionate about **Islam, technology, and continuous growth**.  
-I craft **scalable, data-driven, and elegant digital solutions** that merge design, data, and discipline.  
-Every project I build is powered by **faith, curiosity, and precision** — combining my love for coding and the Qur’an.
+I'm **Ajisafe Ibrahim**, a **Computer Science student at TASUED**, passionate about **technology, innovation, and continuous learning**.  
+I craft **scalable, data-driven, and elegant digital solutions** that merge modern design with robust functionality.  
+Every project I build is powered by **curiosity, creativity, and precision**.
 
-> 💡 *“Code with purpose. Learn with humility. Build with impact.”*
+> 💡 *"Code with purpose. Learn relentlessly. Build with impact."*
 
 ---
 
@@ -35,11 +35,12 @@ Every project I build is powered by **faith, curiosity, and precision** — comb
 
 | Domain | Key Skills & Tools |
 |---------|--------------------|
-| **Frontend Development** | React.js, HTML, CSS, Tailwind CSS, JavaScript (ES6+), Figma |
-| **Backend & APIs** | FastAPI, RESTful APIs, Middleware |
-| **Databases** | PostgreSQL, SQLAlchemy, Alembic |
-| **Version Control / DevOps** | Git, GitHub, Render, Railway, CI/CD, Postman |
-| **UI / UX Design** | Responsive Design, Accessibility, Clean Prototyping |
+| **Frontend Development** | React.js, Next.js, HTML, CSS, Tailwind CSS, JavaScript (ES6+), Figma |
+| **Backend & APIs** | FastAPI, Node.js, Express, RESTful APIs, Middleware |
+| **Databases** | PostgreSQL, MongoDB, SQLAlchemy, Alembic |
+| **Data Science & ML** | Python, Pandas, NumPy, Scikit-learn, Data Visualization |
+| **Version Control / DevOps** | Git, GitHub, Render, Railway, Vercel, CI/CD, Postman |
+| **UI / UX Design** | Responsive Design, Accessibility, Prototyping |
 
 ---
 
@@ -47,25 +48,25 @@ Every project I build is powered by **faith, curiosity, and precision** — comb
 
 | 🧩 Project | 🧱 Stack | ⚙️ Status | 🧠 Description |
 |-------------|----------|------------|----------------|
-| **TASUED E-Accommodation** | FastAPI, PostgreSQL, Alembic | 🚧 In Progress | Backend for a student housing management platform with authentication and admin dashboard. |
-| **Nibras Al-Deen** | React, TailwindCSS, Python.js | 🚧 In Progress | Islamic learning platform for lectures, Qur’an, and Hadith. |
-| **WeTest-Edu** | Vanilla JS, HTML, CSS | 🚀 In Progress | A fun, interactive quiz-based education system. |
-| **Functional Quiz App** | JavaScript | ✅ Completed | Dynamic quiz app with animations, custom scoring, and smooth transitions. |
-| **Libroseek** | JavaScript | ✅ Completed | Dynamic book search app with animations, custom scoring, and smooth transitions available on google. |
+| **TASUED E-Accommodation** | FastAPI, PostgreSQL, Alembic | 🚧 In Progress | Backend system for student housing management with authentication and admin dashboard. |
+| **Nibras Al-Deen** | React, TailwindCSS, Python | 🚧 In Progress | Educational platform with interactive learning features and content management. |
+| **WeTest-Edu** | Vanilla JS, HTML, CSS | 🚀 In Progress | Interactive quiz-based education system with gamification. |
+| **Functional Quiz App** | JavaScript | ✅ Completed | Dynamic quiz application with animations, custom scoring, and smooth transitions. |
+| **Libroseek** | JavaScript | ✅ Completed | Book search application with dynamic filtering and smooth user experience. |
 
 ---
 
 ### 🧠 **Currently Learning & Building**
-- ⚡ Mastering **React Performance & Hooks Optimization**
-- 🔐 Exploring **Authentication, Middleware & API Security**
-- 🧩 Deepening **FastAPI** + **Database Migrations (Alembic)**
-- 🤖 Expanding into **Data Analysis & ML Foundations**
-- ☁️ **Cloud Deployment** (Render, Vercel, Railway)
-- 🕌 **Balancing Code & Qur’an Memorization**
+- ⚡ Mastering **React Performance & Advanced Hooks**
+- 🔐 Deep diving into **Authentication, Security & Middleware**
+- 🧩 Expanding **FastAPI** expertise with **Database Migrations**
+- 🤖 Exploring **Machine Learning & Data Analysis**
+- ☁️ **Cloud Deployment & DevOps** (AWS, Docker, Kubernetes)
+- 📊 Building **Data Visualization Dashboards**
 
 ---
 
-### 🧰 **Tech Stack Badges (Dark / Light Adaptive)**
+### 🧰 **Tech Stack**
 
 <p align="center">
   <picture>
@@ -82,22 +83,22 @@ Every project I build is powered by **faith, curiosity, and precision** — comb
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=Ajisafe&show_icons=true&theme=tokyonight&hide_border=true" 
+      srcset="https://github-readme-stats.vercel.app/api?username=Ajisafe123&show_icons=true&theme=tokyonight&hide_border=true" 
       media="(prefers-color-scheme: dark)" />
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=Ajisafe&show_icons=true&theme=default&hide_border=true" 
+      srcset="https://github-readme-stats.vercel.app/api?username=Ajisafe123&show_icons=true&theme=default&hide_border=true" 
       media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Ajisafe&show_icons=true&theme=tokyonight&hide_border=true" height="160px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Ajisafe123&show_icons=true&theme=tokyonight&hide_border=true" height="160px" />
   </picture>
 
   <picture>
     <source 
-      srcset="https://streak-stats.demolab.com?user=Everbest&theme=tokyonight&hide_border=true" 
+      srcset="https://streak-stats.demolab.com?user=Ajisafe123&theme=tokyonight&hide_border=true" 
       media="(prefers-color-scheme: dark)" />
     <source 
-      srcset="https://streak-stats.demolab.com?user=Everbest&theme=default&hide_border=true" 
+      srcset="https://streak-stats.demolab.com?user=Ajisafe123&theme=default&hide_border=true" 
       media="(prefers-color-scheme: light)" />
-    <img src="https://streak-stats.demolab.com?user=Everbest&theme=tokyonight&hide_border=true" height="160px" />
+    <img src="https://streak-stats.demolab.com?user=Ajisafe123&theme=tokyonight&hide_border=true" height="160px" />
   </picture>
 </p>
 
@@ -108,33 +109,31 @@ Every project I build is powered by **faith, curiosity, and precision** — comb
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Everbest&layout=compact&theme=tokyonight&hide_border=true" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajisafe123&layout=compact&theme=tokyonight&hide_border=true" 
       media="(prefers-color-scheme: dark)" />
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Everbest&layout=compact&theme=default&hide_border=true" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajisafe123&layout=compact&theme=default&hide_border=true" 
       media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Everbest&layout=compact&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajisafe123&layout=compact&theme=tokyonight&hide_border=true" />
   </picture>
 </p>
 
 ---
 
-### 🕌 **Beyond the Code**
+### 💡 **Philosophy**
 
-When I’m not debugging or pushing commits,  
-you’ll find me reciting the **Qur’an**, studying **Hadith**, or reading **Islamic knowledge**.  
-My journey blends **spiritual devotion** with **intellectual excellence** — both code and faith.
+When I'm not debugging or pushing commits, you'll find me exploring new technologies, contributing to open-source projects, or diving deep into data science and machine learning. I believe in continuous growth, clean code, and building solutions that make a real difference.
 
-> 🕋 *“Discipline in code, devotion in prayer — that’s the balance I strive for.”*
+> 🚀 *"Stay curious. Stay humble. Keep building."*
 
 ---
 
-### 🤝 **Let’s Connect & Collaborate**
+### 🤝 **Let's Connect & Collaborate**
 
-📧 **Email:** [ajisafeibrahim54@gmail.com](mailto:theeverbeststudios@gmail.com)  
-💼 **LinkedIn:** [Ajisafehttps://linkedin.com/in/ji)  
+📧 **Email:** [ajisafeibrahim54@gmail.com](mailto:ajisafeibrahim54@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/ajisafe-ibrahim](https://linkedin.com/in/ajisafe-ibrahim)  
 🌐 **Portfolio (Coming Soon):** [ajisafe.dev](https://ajisafe.dev)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FFA5&center=true&vCenter=true&width=500&lines=📖+Keep+Learning;💻+Keep+Building;🕌+Keep+Growing" alt="Typing Footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FFA5&center=true&vCenter=true&width=500&lines=📖+Keep+Learning;💻+Keep+Building;🚀+Keep+Innovating" alt="Typing Footer" />
 </p>
