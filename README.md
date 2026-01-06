@@ -121,17 +121,6 @@ const ajisafe = {
 </tr>
 
 <tr>
-<td width="50%">
-
-### 🎯 WeTest-Edu
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajisafe123&repo=wetest-edu&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" width="100%"/>
-
-**Stack:** Vanilla JS • HTML • CSS  
-**Status:** 🎮 In Progress  
-**Features:** Gamification • Progress Tracking • Leaderboards
-
-</td>
-<td width="50%">
 
 ### 📖 Libroseek
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajisafe123&repo=libroseek&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" width="100%"/>
